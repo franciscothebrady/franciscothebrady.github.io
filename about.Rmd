@@ -1,0 +1,13 @@
+---
+title: "About me"
+---
+
+My name is Francisco Brady: 
+
+- I graduated from Howard University with a major in Economics and a minor in Philosophy. I came to Howard for a number of reasons, and it changed my life. I've been a restaurant worker, a retail clerk, and a lot of other things. It took me a while to get here, and I like to think it gives me a different perspective towards what's important in economic research. 
+  
+Other tidbits:
+
+* I'm in a [band](www.knightlyreeding.com/)!
+* I'm on [twitter](https://twitter.com/mrfbrady)!
+* Here is my [github site](https://github.com/franciscothebrady)

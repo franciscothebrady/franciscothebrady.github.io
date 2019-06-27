@@ -1,0 +1,11 @@
+---
+title: "Goodies"
+---
+
+Here are some good resources on things that are useful.
+
+* [Rmarkdown - The definitive guide](https://bookdown.org/yihui/rmarkdown/)  -- This was a great reference for making this site.
+* [Stack Overflow](https://stackoverflow.com/)  -- This is where you ask questions and they give you answers. Make sure you provide enough context and information so that people can help you. 
+* [R 4 Data Science](https://r4ds.had.co.nz/) -- I do a lot of work in R. This is probably the best free textbook for learning how to perform data analysis in R.
+* [Rstudio](https://www.rstudio.com/) -- Rstudio is an Integrated Development Enviroment (IDE), which basically means it's software where you can write code and execute it and see the results and do a lot of other stuff with it at the same time. It's prettty useful and makes writing code for analysis and visualization a lot less of a hassle.
+* [Data is Plural](https://tinyletter.com/data-is-plural) -- This is a newsletter that sends out semi-regular lists of interesting datasets. 

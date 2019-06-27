@@ -1,0 +1,15 @@
+---
+title: "Examples"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Hello 
+This is where I will be posting examples and little tutorials, both for my own benefit and for anyone else who happens to want to figure something out.
+
+* [Hello Zillow!](articles/hello_zillow.html)
+
+
+
