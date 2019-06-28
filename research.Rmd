@@ -5,5 +5,9 @@ title: "Research"
 ### Research
 
 Here are some things that I've worked on, in school, at the board, and otherwise:
+These are topics now that I have not had time to flesh out, but stay tuned!
 
-* 
+* Impacts of Weather Forecast Accuracy  on Local Economies 
+* Community Reinvestment Act
+* Building websites with R and Rmarkdown 
+* Building a custom grading Shiny application for a class teaching R and data analysis 
