@@ -6,10 +6,11 @@ output:
     toc_float: true
 ---
 
-## Hello 
+#### Hello 
 This is where I will be posting examples and little tutorials, both for my own benefit and for anyone else who happens to want to figure something out.
 
 * [Hello Zillow!](articles/hello_zillow.html)
+* [How I built this website](github_pages.html)
 
 
 

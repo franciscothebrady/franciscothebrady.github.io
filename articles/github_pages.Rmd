@@ -1,0 +1,109 @@
+---
+title: "How I built this website"
+output: 
+  html_document
+---
+  
+This website was put together using RMarkdown and Github pages. I saved the whole thing as an Rproject. Here is how it works:
+
+
+#### Github Pages
+
+This website is set up as a repository on [github.com](www.github.com). To set up a repository to be served as a collection of html pages, you have to set it up in a certain way.  
+
+Set up a new repository, and name it [github username].github.io. This essentially tells github that this is a repository that will be storing html and markdown files, and that when someone goes to the address [franciscothebrady.github.io](www.franciscothebrady.github.io), they don't just want to see the directory/repo with the files in it, they want to be served render html files as a website instead. Someone smarter than me can get into the specifics of that. In fact, if you're curious about the whole thing, [github has a tutorial](https://pages.github.com/) which is pretty useful, although there are some gotchas that I had to deal with.  
+
+#### Setting up an Rproject
+
+Once you've got a repository set up, you need two things to get started making #content: _site.yml and index.Rmd
+
+#### _site.yml 
+
+YAML files are pretty cool. They are basically files that dictate the configuration of whatever other files are in the directory. For static pages, they dictate the ordering of the site. Below is my yaml file. Notice that it basically creates the navigation bar that you can see across the entire site (except the examples, I'm not sure how to include them there (YET)). 
+
+```
+output_dir: '.'
+name: "home"
+navbar: 
+  title: "Francisco Brady"
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Research"
+      href: research.html
+    - text: "Examples"
+      href: posts.html
+    - text: "Goodies"
+      href: goodies.html
+```
+
+A couple of things to note here:  
+1. I've chosen to define the navbar here. Other more fancy sites have another navbar.html (created with navbar.Rmd, probably) which is referenced in the _site.yml file.  
+2. .yml NOT .yaml -- I'm not sure why this is, but rmardown just works this way. I think .yml is the old way to refer to these files. YAML stands for (seriously) **Y**AML is not a **M**arkup **L**anguage. Do with that fact what you will.  
+3. output_dir -- By default when you render your site, rmarkdown will place all the rendered .html files into a directory called _site. If you want to dive into how to redirect the top level directory to this _site folder, be my guest. I opted for the simpler output_dir argument, which sets the output directory for the .html files that are rendered to be top level.  
+
+
+#### Index.Rmd
+
+This is your homepage! Once you start a new Rmd file, you need to include a header, which is just some text in between three dashes.  
+Here is the index.Rmd that makes the homepage of this site.
+
+```
+---
+title: "Francisco Brady"
+---
+  <br>
+  <br>
+  Hello, my name is francisco brady. I am currently a research assistant at the federal reserve.  
+
+
+**None of my opinions represent the views of the federal reserve or any of the reserve banks**
+
+Research Interests:  
+- Open source everything  
+- Economic research, especially as it pertains to:  
+-- inequality  
+-- social mobility  
+-- urban economics  
+-- environmental impacts  
+-- other cool things
+
+```
+
+The header can handle all sorts of fancy stuff, like custom styling and a bunch of other junk. 
+
+#### Other notes  
+
+When you're poking around the repo, you'll notice that all of the .html files have a corresponding .Rmd file. This is the code that actually creates the html. So for the about.html page (in the navbar), I wrote an about.Rmd, rendered it into html, and then linked to that file in the repo. The only kinda special one is the "Examples" page, which is where I wanted to include tips and tricks (like this!).
+
+#### Posts.Rmd  
+
+Here is the layout for posts.Rmd 
+
+```
+---
+title: "Examples"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+#### Hello 
+This is where I will be posting examples and little tutorials, both for my own benefit and for anyone else who happens to want to figure something out.
+
+* [Hello Zillow!](articles/hello_zillow.html)
+* [How I built this website](github_pages.html)
+```
+
+I called it posts.Rmd and it's called Examples in the header -- sue me! I waffled on what to call it and now it is what it is. Notice that on this page, I am linking to each of the rendered html files that I create with a new Rmd script. They're all saved in the repo under the articles directory, so the path for each link reflects that. 
+
+#### Next steps
+
+Once you've made an Rmd or two, head over to the "Build" tab in your Rstudio session and click the "Build Website" button. Alternatively, you can run the `rmarkdown::render_site()` in the console or command line or whatever. This will knit all of the Rmd files that R can find in the current drectory, and turn those puppies into html, which is then ready to be served on your site.   
+
+Remember to add, commit -m, and push your changes to your new github repo, and you should see the changes relatively quickly. If you have any thoughts or suggestions or questions, please feel free to let me know.
