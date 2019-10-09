@@ -1,0 +1,55 @@
+---
+title: "Building Functions"
+author: "Francisco Brady"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Packages
+
+Sometimes the R community will provide some excellent packages the give you the stuff you want in exactly the format you need. This is great! More often, however, you will need to massage it a little bit. Today I'm going to go through how to build a function to adapt an existing function and make it a little more user friendly. 
+
+## Motivation
+
+I'm interested in payday loans. Not only because I've used them, and the services offered at payday loan establishments, like check cashing (for a nominal fee!), but also because I'm interested in their impact on the surrounding community. The other reason I'm interested in them is that there's not a whole lot of research on how payday loans or other alternative financial service providers (AFSPs) intaract with the communities in which they decide to locate. Here is where the ZBP comes in. 
+
+## Census zipcode business patterns!
+
+Every year the Census provides statistics business patterns at the zip code level(!). In this post I'm going to try to adapt the main workhorse function from the `censusapi` package to get some of those statistics into a nice format. 
+
+[They're kind of hard to find](https://www.census.gov/data/developers/data-sets/cbp-nonemp-zbp/zbp-api.html), but once you do, there is documentation. 
+
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
+library(dplyr)
+library(jsonlite)
+```
+
+## Here's the plan
+
+If you're connected to the internet, you can make requests to APIs (Application Programming Interface) to download data. This is fun and useful, [but first you need to request an API key](https://api.census.gov/data/key_signup.html). 
+
+Here's what we're going to do: 
+
+1. Find some zip codes we're interested in.
+2. Use that list of zip codes to build an API request using  the `censusapi` package.
+3. Get the data and try to do something cool with it.   
+
+From the documentation, we know the root of the url: https://api.census.gov/data/2016/zbp  
+
+
+```{r building the API request, echo=TRUE}
+root <- "https://api.census.gov/data/"
+
+```
+  
+Notice that I didn't put the year in there yet. We're going to leave that part off for now. 
+
+Again from the documentation, we can take a look at the [variables available](https://api.census.gov/data/2016/zbp/variables.html) from the survey. For now we're interested in the number of establishments. 
+
+The Census uses the North American Industrial Classification System (NAICS) codes to distinguish between establishments in different industries. In particular, for the 2016 API, they use the [2012 codes](https://www.census.gov/cgi-bin/sssd/naics/naicsrch?chart=2012).
+
+  
