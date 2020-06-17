@@ -1,0 +1,19 @@
+---
+title: "Stack Overflow"
+output: html_document
+---
+
+Below is a list of posts I've made on Stack Overflow. They are useful to me, so hopefully they will be useful to you.
+
++  [Summarise wtd.quantile by group](https://stackoverflow.com/questions/52418838/summarise-wtd-quantile-by-group)  
++  [Replace string with most frequent fuzzy match](https://stackoverflow.com/questions/60081935/replace-string-with-most-frequent-fuzzy-match)  
++  [Running Total with subtraction](https://stackoverflow.com/questions/47664669/running-total-with-subtraction)  
++  [Create overlapping date vector based on start date](https://stackoverflow.com/questions/61551339/create-overlapping-date-vector-based-on-start-date)  
++  [Separate rows on string & preserving original](https://stackoverflow.com/questions/61036933/separate-rows-on-string-preserving-original)  
++  [Replace & symbol and combine surrounding strings](https://stackoverflow.com/questions/61036933/separate-rows-on-string-preserving-original)  
++  [Re-scaling overlapping data series](https://stackoverflow.com/questions/61724790/re-scaling-overlapping-data-series)  
++  [Grep unnamed column for row indices](https://stackoverflow.com/questions/58979790/grep-unnamed-column-for-row-indices)  
++  [Memory Issues using rnoaa package](https://stackoverflow.com/questions/41942455/memory-issues-using-rnoaa-package)  
+
++  [This is a link back to my homepage](https://franciscothebrady.github.io/index.html)
+

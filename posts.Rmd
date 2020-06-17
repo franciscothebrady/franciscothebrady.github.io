@@ -9,6 +9,7 @@ output:
 
 This is where I will be posting examples and little tutorials, both for my own benefit and for anyone else who happens to want to figure something out.
 
+* [Stack Overflow Posts](articles/stack_overflow.html)
 * [Hello Zillow!](articles/hello_zillow.html)
 * [How I built this website](articles/github_pages.html)
 

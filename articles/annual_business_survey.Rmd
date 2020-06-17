@@ -1,0 +1,24 @@
+---
+title: "Annual Business Survey"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Annual Business Survey 
+
+The Census released the [Annual Business Survey](https://www.census.gov/programs-surveys/abs.html) in 2018. This survey collects important information about the demographics of business owners across the United States. They've only released information covering 2017, but I think there's a way to link that information with the older [Survey of Business Owners](https://www.census.gov/programs-surveys/sbo.html), so stay tuned once I learn how to do that.
+
+![ABO Homepage](static/img/abs_screenshot)
+
+## Downloading the Data 
+
+The Census website is not the most user friendly (at least to me), and they got rid of the American fact-finder site. Since this is just onw table, we can just [go to the data page](https://www.census.gov/programs-surveys/abs/data.html) and download the table. There's also documentation to build your own API to pull the data in directly.  Let's give it a shot!
+
+```{r, echo=FALSE}
+library(dplyr)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
