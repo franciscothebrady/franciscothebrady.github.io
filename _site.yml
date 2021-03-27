@@ -15,5 +15,7 @@ navbar:
       href: posts.html
     - text: "Goodies"
       href: goodies.html
+    - text: "ISLR Notes"
+      href: islr-guide.html
   
       
