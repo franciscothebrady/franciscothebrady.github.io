@@ -6,6 +6,8 @@
   <br>
   I am currently a Research Analyst at the UChicago Urban Lab's [Poverty Lab](https://urbanlabs.uchicago.edu/labs/poverty)  
   ~~I am currently a research assistant at the federal reserve.~~
+  
+<img align="right" width="200" height="200" src="pics/apictureofme.jpeg">
 
 
 **None of my opinions represent the views of the federal reserve or any of the reserve banks**  
