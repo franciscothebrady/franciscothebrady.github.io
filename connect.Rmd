@@ -15,7 +15,7 @@ title: "francisco brady - connect"
 
 Reach out and say hi, or just check out some of my other work:  
 - fbrady [at] umich.edu, franciscothebrady [at] gmail.com  
-- [LinkedIn Profile](https://www.linkedin.com/in/francisco-brady-212232aa/)
+- [LinkedIn Profile](https://www.linkedin.com/in/francisco-brady-212232aa/) 
 - [Github](https://github.com/franciscothebrady)  
 - [Stack Overflow Profile](https://stackoverflow.com/users/7448886/francisco)  
 - [Bluesky](https://bsky.app/profile/fbrady.bsky.social)  
