@@ -1,0 +1,27 @@
+---
+title: "francisco brady - connect"
+---
+  
+:::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
+
+::: {}
+
+```{r child ='sidebar_nav.Rmd'}
+```
+
+:::
+  
+::: {}
+
+Reach out and say hi, or just check out some of my other work:  
+- fbrady [at] umich.edu, franciscothebrady [at] gmail.com  
+- [Github](https://github.com/franciscothebrady)  
+- [Stack Overflow Profile](https://stackoverflow.com/users/7448886/francisco)  
+- [Bluesky](https://bsky.app/profile/fbrady.bsky.social)  
+- [Twitter/X](https://twitter.com/mrfbrady) (don't really use this much anymore)  
+
+
+:::
+
+::::
+  

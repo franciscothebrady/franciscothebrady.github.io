@@ -1,8 +1,23 @@
 ---
-title: "Resume!"
+title: "francisco brady - resume"
 ---
+  
+:::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
+
+::: {}
+
+```{r child ='sidebar_nav.Rmd'}
+```
+
+:::
+  
+::: {}
 
 This is the most recent copy of my resume: 
+  
+<iframe src="https://drive.google.com/file/d/1SPpeGwlBtK0H5XHmQfaV2Qh0L3JuUFF5/preview" width="640" height="480" allow="autoplay"></iframe>
 
+:::
 
-<iframe src="https://drive.google.com/file/d/1MvDNqzpOeLKEWew7pQOYYAhHXr6pafIR/preview" width="900" height="780"></iframe>
+::::
+  

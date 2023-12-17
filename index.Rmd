@@ -1,24 +1,55 @@
 ---
+title: "francisco brady"
+output:
+  html_document:
+    df_print: paged
 ---
-  <br>
-  <br>
-  Hello, my name is francisco brady.  
-  <br>
-  I am currently a Research Analyst at the UChicago Urban Lab's [Poverty Lab](https://urbanlabs.uchicago.edu/labs/poverty)  
-  ~~I am currently a research assistant at the federal reserve.~~
+
+```{r setup, echo = FALSE}
+library(knitr)
+```
+
+:::: {style="display: grid; grid-template-columns: 1fr 3fr 2fr; grid-column-gap: 10px;"}
+
+::: {}
+
+```{r child ='sidebar_nav.Rmd'}
+```
+
+:::
+
+::: {}
+
+#### Hello!
+
+
+I am currently a student in the Master of Public Policy program at the [Ford School of Public Policy](https://fordschool.umich.edu/)  
+~~I am currently a Research Analyst at the UChicago Urban Lab's [Inclusive Economy Lab](https://urbanlabs.uchicago.edu/labs/inclusiveeconomy)~~  
+~~I am currently a research assistant in the Real Estate Finance section at the [Federal Reserve](https://www.federalreserve.gov/econres/rsref-staff.htm).~~  
   
-<img align="right" width="200" height="200" src="pics/apictureofme.jpeg">
-
-
+**I'm pretty sure I can say whatever I want when I'm a student**  
 **None of my opinions represent the views of the federal reserve or any of the reserve banks**  
-
 **None of my spicier takes represent the sum total of the views of the University of Chicago or Urban Labs**
 
 Research Interests:  
-- Open source everything  
-- Economic research, especially as it pertains to:  
+- Public Policy and Economic Research, especially as it pertains to:  
 -- inequality  
 -- social mobility  
 -- urban economics  
--- environmental impacts  
--- other cool things
+-- basic income pilots 
+-- open source programming  
+-- other cool things 
+
+
+:::
+
+::: {}
+
+
+```{r photo, echo = FALSE, out.width=500}
+include_graphics(path = "pics/apictureofme.jpeg")
+```
+
+:::
+
+::::

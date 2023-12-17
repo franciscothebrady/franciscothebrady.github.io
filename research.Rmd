@@ -1,13 +1,32 @@
 ---
-title: "Research"
+title: "francisco brady - research, etc"
 ---
+  
+:::: {style="display: grid; grid-template-columns: 1fr 5fr; grid-column-gap: 10px;"}
 
-### Research
+::: {}
 
-Here are some things that I've worked on, in school, at the board, and otherwise:
-These are topics now that I have not had time to flesh out, but stay tuned!
+```{r child ='sidebar_nav.Rmd'}
+```
 
-* Impacts of Weather Forecast Accuracy  on Local Economies 
-* Analysis of the Community Reinvestment Act (CRA) and Home Mortgage Disclosure Act (HMDA)
-* Building websites with R and Rmarkdown 
-* Building a custom grading Shiny application for a class teaching R and data analysis 
+:::
+  
+::: {}
+
+Here are some projects that I've been involved with:  
+
+- [Mortgage Debt Outstanding (MDO) table](https://www.federalreserve.gov/data/mortoutstand/current.htm), (along with it's retirement in 2020Q1)  
+- [Chicago Resilient Communities Pilot](https://www.chicago.gov/city/en/sites/resilient-communities-pilot/home.html), a 5,000 household guaranteed income pilot launched in Chicago in the summer of 2022. I helped test and deploy randomization code, and also contributed to the preparation of the [First Look Report](https://urbanlabs.uchicago.edu/attachments/5c577639c291dbf0e037e3ebc5627cd73985b2d9/store/ecdddd230d6b35dba45fd6c61ff1d0edb15e4491326aa9afefe6894cc955/CRCP+First+Look+Report+Winter+2023.pdf), detailing baseline characteristics and initial survey responses of the participants.  
+- [Cook County Promise Guaranteed Income Pilot](https://urbanlabs.uchicago.edu/projects/guaranteed-income). As above, I helped test and develop randomization code and other analysis tasks.  
+- [Guaranteed Income to Grow Ann Arbor Pilot Program](https://giga2.org/), a 200 person RCT. I was involved on the implementation side, helping with applications, eligibility, and enrollment into the program after randomization.  
+- [Homelessness Data Dashboard](https://allchicago.org/how-we-are-ending-homelessness/data-analytics/chicagos-dashboard-to-end-homelessness/): A tableau dashboard displaying frequently updated information based on All Chicago's HMIS database.  
+- [Chicago Housing Stability Dashboard](https://urbanlabs.uchicago.edu/projects/chicago-housing-stability-dashboard), a quarterly updating dashboard intended to provide targeted information for support agencies and providers in Chicago for those experiencing housing instability.  
+- [DC Abortion Fund FY2023 Annual Report](https://dcabortionfund.org/annual-report): I contributed some analysis and visualizations to this report/zine.  
+
+
+
+
+:::
+
+::::
+  
