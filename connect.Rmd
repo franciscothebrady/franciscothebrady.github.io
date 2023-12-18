@@ -12,14 +12,16 @@ title: "francisco brady - connect"
 :::
   
 ::: {}
-
+<br>
+<br>  
 Reach out and say hi, or just check out some of my other work:  
+<br>
+<!-- <a href="https://drive.google.com/file/d/1SPpeGwlBtK0H5XHmQfaV2Qh0L3JuUFF5/view?usp=sharing" target="_blank">resume.</a>   -->
 - fbrady [at] umich.edu, franciscothebrady [at] gmail.com  
-- [LinkedIn Profile](https://www.linkedin.com/in/francisco-brady-212232aa/)  
-- [Github](https://github.com/franciscothebrady)  
-- [Stack Overflow Profile](https://stackoverflow.com/users/7448886/francisco)  
-- [Bluesky](https://bsky.app/profile/fbrady.bsky.social)  
-- [Twitter/X](https://twitter.com/mrfbrady) (don't really use this much anymore)  
+- <a href="https://www.linkedin.com/in/francisco-brady-212232aa/" target="_blank">LinkedIn Profile</a>  
+- <a href="https://github.com/franciscothebrady" target="_blank">Github Profile</a>  
+- <a href="https://bsky.app/profile/fbrady.bsky.social" target="_blank">Bluesky</a>  
+- <a href="https://twitter.com/mrfbrady" target="_blank">Twitter/X</a> (dormant-ish)  
 
 
 :::

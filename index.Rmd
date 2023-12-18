@@ -21,15 +21,16 @@ library(knitr)
 ::: {}
 
 #### Hello!
-
+<br>
+<br>
 
 I am currently a student in the Master of Public Policy program at the [Ford School of Public Policy](https://fordschool.umich.edu/)  
 ~~I am currently a Research Analyst at the UChicago Urban Lab's [Inclusive Economy Lab](https://urbanlabs.uchicago.edu/labs/inclusiveeconomy)~~  
 ~~I am currently a research assistant in the Real Estate Finance section at the [Federal Reserve](https://www.federalreserve.gov/econres/rsref-staff.htm).~~  
   
 **I'm pretty sure I can say whatever I want when I'm a student**  
-**None of my opinions represent the views of the federal reserve or any of the reserve banks**  
-**None of my spicier takes represent the sum total of the views of the University of Chicago or Urban Labs**
+~~**None of my opinions represent the views of the federal reserve or any of the reserve banks**~~  
+~~**None of my spicier takes represent the sum total of the views of the University of Chicago or Urban Labs**~~  
 
 Research Interests:  
 - Public Policy and Economic Research, especially as it pertains to:  
@@ -47,7 +48,7 @@ Research Interests:
 
 
 ```{r photo, echo = FALSE, out.width=500}
-include_graphics(path = "pics/apictureofme.jpeg")
+include_graphics(path = "static/apictureofme.jpeg")
 ```
 
 :::
