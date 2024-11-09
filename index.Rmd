@@ -52,7 +52,7 @@ Research Interests:
 
 
 ```{r photo, echo = FALSE, out.width=500}
-include_graphics(path = "static/apictureofme.jpeg")
+include_graphics(path = "static/fbrady_2024.jpeg")
 ```
 
 :::
