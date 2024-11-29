@@ -15,15 +15,24 @@ title: "francisco brady - research, etc"
 <br> <br> Here are some projects that I've been involved with:\
 <br>
 
--   <a href="https://www.federalreserve.gov/data/mortoutstand/current.htm" target="_blank">Mortgage Debt Outstanding (MDO) Table</a>, (along with it's retirement in 2020Q1)\
--   <a href="https://www.chicago.gov/city/en/sites/resilient-communities-pilot/home.html" target="_blank">Chicago Resilient Communities Pilot</a>, a 5,000 household guaranteed income pilot (RCT) launched in Chicago in the summer of 2022. I helped test and deploy randomization code, put together various datasets for analysis and planning, and also contributed to the preparation of the <a href="https://urbanlabs.uchicago.edu/attachments/5c577639c291dbf0e037e3ebc5627cd73985b2d9/store/ecdddd230d6b35dba45fd6c61ff1d0edb15e4491326aa9afefe6894cc955/CRCP+First+Look+Report+Winter+2023.pdf" target="_blank">First Look Report</a>, detailing baseline characteristics and initial survey responses of the participants.\
--   <a href="https://urbanlabs.uchicago.edu/projects/guaranteed-income" target="_blank">Cook County Promise Guaranteed Income Pilot</a>. Another pilot RCT, this time in Cook county. The eligibility requirements were different for this one, so I helped put together demographic data for targeting and determination, plus some other analysis tasks. I also helped test and develop the random assignment code.\
--   <a href="https://urbanlabs.uchicago.edu/projects/identifying-medicaid-and-snap-receiving-households-in-illinois-who-do-not-file-taxes" target="_blank">Unlocking Financial Benefits: Bridging the Gap for Non-Filer Households in Illinois</a>: A short memo I wrote using Census data to estimate the number of "Non-filers" enrolled in SNAP and Medicaid.\
--   <a href="https://giga2.org/" target="_blank">Guaranteed Income to Grow Ann Arbor Pilot Program</a>, a 200 person guaranteed income RCT in Ann Arbor, Michigan. I was involved on the implementation side this time, helping with applications, eligibility, and enrollment into the program after randomization.\
--   <a href="https://allchicago.org/how-we-are-ending-homelessness/data-analytics/chicagos-dashboard-to-end-homelessness/" target="_blank">HMIS Data Dashboard</a>: A tableau dashboard displaying frequently updated information based on All Chicago's HMIS database.\
--   <a href="https://urbanlabs.uchicago.edu/projects/chicago-housing-stability-dashboard" target="_blank">Chicago Housing Stability Dashboard</a>, a quarterly updating dashboard intended to provide targeted information for support agencies and providers in Chicago for those experiencing housing instability.\
--   <a href="https://dcabortionfund.org/annual-report" target="_blank">DC Abortion Fund FY2023 Annual Report</a>: I contributed some analysis and visualizations to this report/zine.\
--   <a href="https://dcabortionfund.org/2024-annual-report" target="_blank">DC Abortion Fund FY2024 Annual Report</a>: I contributed some analysis and visualizations to this website.
+-   [Mortgage Debt Outstanding (MDO) Table](https://www.federalreserve.gov/data/mortoutstand/current.htm){target="_blank"}: One of my first experiences putting together lots of data from a lot of different sources for a regular quarterly publication. I also helped map out some of the underlying series (which are all in the Z1) so that it could be retired in 2020Q1.  
+
+-   [Chicago Resilient Communities Pilot](https://www.chicago.gov/city/en/sites/resilient-communities-pilot/home.html){target="_blank"}: a 5,000 household guaranteed income pilot (RCT) launched in Chicago in the summer of 2022. I helped test and deploy randomization code, put together various datasets for analysis and planning, and also contributed to the preparation of the [First Look Report](https://urbanlabs.uchicago.edu/attachments/5c577639c291dbf0e037e3ebc5627cd73985b2d9/store/ecdddd230d6b35dba45fd6c61ff1d0edb15e4491326aa9afefe6894cc955/CRCP+First+Look+Report+Winter+2023.pdf){target="_blank"}, detailing baseline characteristics and initial survey responses of the participants.  
+
+-   [Cook County Promise Guaranteed Income Pilot](https://urbanlabs.uchicago.edu/projects/guaranteed-income){target="_blank"}: Another pilot RCT, this time in Cook county. The eligibility requirements were different for this one, so I helped put together demographic data for targeting and determination, plus some other analysis tasks. I also helped test and develop the random assignment code.  
+
+-   [Unlocking Financial Benefits: Bridging the Gap for Non-Filer Households in Illinois](https://urbanlabs.uchicago.edu/projects/identifying-medicaid-and-snap-receiving-households-in-illinois-who-do-not-file-taxes){target="_blank"}: A short memo I co-wrote using Census data to estimate the number of "Non-filers" enrolled in SNAP and Medicaid.  
+
+-   [Guaranteed Income to Grow Ann Arbor Pilot Program](https://giga2.org/){target="_blank"}, a 200 person guaranteed income RCT in Ann Arbor, Michigan. I was involved on the implementation side this time, helping with applications, eligibility, and enrollment into the program after randomization. [There is now a preliminary report out on the participants](https://sites.fordschool.umich.edu/poverty2021/files/2024/11/GIGA2-baseline-report.pdf){target="_blank"}  
+
+-   [HMIS Data Dashboard](https://allchicago.org/how-we-are-ending-homelessness/data-analytics/chicagos-dashboard-to-end-homelessness/){target="_blank"}: A tableau dashboard displaying frequently updated information based on All Chicago's HMIS database.  
+
+-   [Chicago Housing Stability Dashboard](https://urbanlabs.uchicago.edu/projects/chicago-housing-stability-dashboard){target="_blank"}, a quarterly updating dashboard intended to provide targeted information for support agencies and providers in Chicago for those experiencing housing instability.  
+
+-   [DC Abortion Fund FY2023 Annual Report](https://dcabortionfund.org/annual-report){target="_blank"}: I contributed some analysis and visualizations to this report/zine.  
+
+-   [DC Abortion Fund FY2024 Annual Report](https://dcabortionfund.org/2024-annual-report){target="_blank"}: My second time contributing some analysis to this annual report.  
+
 
 </div>
 :::::
