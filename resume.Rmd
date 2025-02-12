@@ -14,10 +14,10 @@ title: "francisco brady - resume"
 ::: {}
 <br>
 <br>
-This is the most recent copy of my <a href="https://drive.google.com/file/d/16bEaCIRW-qOVBmddem6Ivb5cyIbhlfPG/view?usp=sharing" target="_blank">resume.</a>  
+This is the most recent copy of my <a href="https://drive.google.com/file/d/11HUv4Bc7rFVo9jqqHzWGCH7dJxnpLnIU/view?usp=sharing" target="_blank">resume.</a>  
 <br>  
 <!-- <iframe src="https://drive.google.com/file/d/1SPpeGwlBtK0H5XHmQfaV2Qh0L3JuUFF5/" width="640" height="480"></iframe> -->
-<object data="static/current_resume2024.pdf" width="640" height="800" type='application/pdf'></object>
+<object data="static/current_resume2025.pdf" width="640" height="800" type='application/pdf'></object>
 
 :::
 
