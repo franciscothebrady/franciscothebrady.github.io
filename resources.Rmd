@@ -17,6 +17,8 @@ title: "francisco brady - resources"
 I am a big fan of public goods, and will occasionally put useful things here:  
 <br>
 <!-- <a href="https://drive.google.com/file/d/1SPpeGwlBtK0H5XHmQfaV2Qh0L3JuUFF5/view?usp=sharing" target="_blank">resume.</a>   -->
+- <a href="static/Diversity, Equity, and Inclusion will continue at the Penny W. Stamps School of Art & Design.pdf" target="_blank">Diversity, Equity, and Inclusion will continue at the Penny W. Stamps School of Art &
+Design</a>: My transcription of a statement made to the community of the STAMPS school of Art and Design at the University of Michigan. A model example of a supportive and principled statement by the Dean of a school in uncertain times.  
 - <a href="https://stackoverflow.com/users/7448886/francisco" target="_blank">Stack Overflow Profile</a>: Sometimes smart and generous people answer my questions on here.  
 - <a href="https://github.com/vonhafften/vonhafften.github.io" target="_blank">What I based this site on</a>: Alex is a former coworker, current PhD student at UW-Madison, and all around nice guy.  
 - <a href="https://www.data-is-plural.com/" target="_blank">Data is Plural</a>: Weekly newsletter with interesting datasets and researching that comes from it.  
