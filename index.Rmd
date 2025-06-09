@@ -24,7 +24,7 @@ library(knitr)
 <br>
 <br>
 
-I am currently a Data and & Policy analyst at [Poverty Solutions](https://poverty.umich.edu/) at the University of Michigan.  
+I am currently a Data & Policy analyst at [Poverty Solutions](https://poverty.umich.edu/) at the University of Michigan.  
 
 **None of my opinions represent the views of the University of Michigan or Poverty Solutions**  
 
