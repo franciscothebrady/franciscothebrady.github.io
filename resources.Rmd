@@ -22,7 +22,6 @@ Design</a>: My transcription of a statement made to the community of the STAMPS 
 - <a href="https://stackoverflow.com/users/7448886/francisco" target="_blank">Stack Overflow Profile</a>: Sometimes smart and generous people answer my questions on here.  
 - <a href="https://github.com/vonhafften/vonhafften.github.io" target="_blank">What I based this site on</a>: Alex is a former coworker, current PhD student at UW-Madison, and all around nice guy.  
 - <a href="https://www.data-is-plural.com/" target="_blank">Data is Plural</a>: Weekly newsletter with interesting datasets and researching that comes from it.  
-- <a href="https://github.com/franciscothebrady/coursework" target="_blank">My MPP Notes</a>: These are a mess, but some people may be interested because I have been passing my notes through umgpt, the university of michigans chatgpt clone. I try to make note of that and the prompt used when that's the case. Otherwise these are just my notes and classwork.
 
 
 :::
