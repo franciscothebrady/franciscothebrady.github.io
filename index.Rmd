@@ -43,12 +43,12 @@ I am currently a Data & Policy analyst at [Poverty Solutions](https://poverty.um
 
 Research Interests:  
 - Public Policy and Economic Research, especially as it pertains to:  
--- inequality  
--- housing  
--- urban economics  
--- basic income pilots  
--- open source programming  
--- other cool things 
+    -- inequality  
+    -- housing stability and homelessness  
+    -- urban economics  
+    -- basic income pilots  
+    -- open source programming  
+    -- other cool things 
 
 
 :::

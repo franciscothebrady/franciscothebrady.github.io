@@ -12,7 +12,7 @@ title: "francisco brady - research, etc"
 
 <div>
 
-<br> <br> Here are some projects that I've been involved with, in sort of chronological order:\
+<br> <br> Here are some projects that I've been involved with, in sort of chronological order:
 <br>
 
 -   [Mortgage Debt Outstanding (MDO) Table](https://www.federalreserve.gov/data/mortoutstand/current.htm){target="_blank"}: One of my first experiences putting together lots of data from a lot of different sources for a regular quarterly publication. I also helped map out some of the underlying series (which are all in the Z1) so that it could be retired in 2020Q1.  
@@ -32,6 +32,8 @@ title: "francisco brady - research, etc"
 -   [DC Abortion Fund FY2023 Annual Report](https://dcabortionfund.org/annual-report){target="_blank"}: I contributed some analysis and visualizations to this report/zine.  
 
 -   [DC Abortion Fund FY2024 Annual Report](https://dcabortionfund.org/2024-annual-report){target="_blank"}: My second time contributing some analysis to this annual report.  
+
+-   [DC Abortion Fund FY2025 Annual Report](https://dcabortionfund.org/annual-reports/2025-annual-report){target="_blank"}: Had so much fun we ran it again!  
 
 
 </div>
